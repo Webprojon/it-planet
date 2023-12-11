@@ -1,0 +1,39 @@
+// Sass Variables
+$white: aliceblue;
+$anim: all 0.3s linear;
+$spacing: 0.2rem;
+$darker: rgba(46, 44, 44, 0.18);
+// Sass Variables
+
+.reponsivenav {
+  background-color: $darker;
+  backdrop-filter: blur(17.5px);
+  color: $darkgray;
+  position: absolute;
+  top: 12%;
+  width: 75%;
+  height: 100vh;
+  z-index: 100;
+  border: {
+    right: 1px solid $darker;
+    top-right-radius: $spacing;
+    bottom-right-radius: $spacing;
+  }
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    .link {
+      text-decoration: none;
+      color: $white;
+      font-size: 2rem;
+      text-transform: uppercase;
+      letter-spacing: $spacing;
+      line-height: 2.5rem;
+      padding: 2.1rem 5rem;
+      &:hover {
+        border-left: 2px solid red;
+        transition: $anim;
+      }
+    }
+  }
+}
