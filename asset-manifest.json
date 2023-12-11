@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/it-planet/static/css/main.3d3c4ef0.css",
+    "main.js": "/it-planet/static/js/main.89d56a00.js",
+    "static/media/homeCourse.webp": "/it-planet/static/media/homeCourse.3c0eea7712f1d36b761c.webp",
+    "static/media/nodejs.png": "/it-planet/static/media/nodejs.1d118f1611e91a6902ce.png",
+    "static/media/software.png": "/it-planet/static/media/software.e4e6906b1bf6c3fe4943.png",
+    "static/media/code.png": "/it-planet/static/media/code.c0846bb73936e0dcbec2.png",
+    "static/media/homeWorld.jpg": "/it-planet/static/media/homeWorld.bbc025e5dd88172cf256.jpg",
+    "static/media/founder-1.jpg": "/it-planet/static/media/founder-1.86078004b2e3d6333095.jpg",
+    "static/media/top-companies.png": "/it-planet/static/media/top-companies.b9f272e1b4779267cc99.png",
+    "static/media/javascript.jpg": "/it-planet/static/media/javascript.f2f3cfdf684ab28448b8.jpg",
+    "static/media/recruter.jpg": "/it-planet/static/media/recruter.e8bd377ec42461b44a04.jpg",
+    "static/media/frontend.jpg": "/it-planet/static/media/frontend.0934b6fefa52dff31d4f.jpg",
+    "static/media/founder-2.jpg": "/it-planet/static/media/founder-2.e60ff307002f271b3d8e.jpg",
+    "static/media/backend.jpg": "/it-planet/static/media/backend.ba5d996ac2b5eabf1209.jpg",
+    "static/media/ios.jpg": "/it-planet/static/media/ios.77357433f7562820e146.jpg",
+    "index.html": "/it-planet/index.html",
+    "main.3d3c4ef0.css.map": "/it-planet/static/css/main.3d3c4ef0.css.map",
+    "main.89d56a00.js.map": "/it-planet/static/js/main.89d56a00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3c4ef0.css",
+    "static/js/main.89d56a00.js"
+  ]
+}
